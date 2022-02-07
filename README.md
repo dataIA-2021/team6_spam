@@ -10,6 +10,7 @@ https://archive.ics.uci.edu/ml/datasets/sms+spam+collection#
 
 Attention : il s'agit d'un jeu de données qui ne doit pas être travaillé en NLP (on fera du NLP un peu plus tard).
 En terme de préparation des données, il s'agit d'extraire une multitude d'infos à partir du message texte, afin d'obtenir un ensemble de descripteurs (features) comme :
+
     - nombre et proportion des caractères "!, ?, €, #" etc
     - longueur du message
     - nombre et proportion de majuscules
