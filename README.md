@@ -1,5 +1,5 @@
 # team6_spam
-Notebook principal du projet : 
+Notebook principal du projet : Projet_6_Spam_Final.ipynb
 
 
 Objectif du projet:
