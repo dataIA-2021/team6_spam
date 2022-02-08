@@ -1,4 +1,6 @@
 # team6_spam
+Notebook principal du projet : 
+
 
 Objectif du projet:
 Concevoir un classifieur de détection automatique de SPAM.
